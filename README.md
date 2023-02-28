@@ -1,6 +1,8 @@
 # Smart-City
 threejs practice demo
 
+demo url：[demo](https://webgl-3d-smartcity.vercel.app/)
+
 ## Setup
 
 下载 [Node.js](https://nodejs.org/en/download/),并执行以下命令
